@@ -1,0 +1,6 @@
+_index:
+  pattern: /index/{$name}
+   defaults: { _controller: AcmeMyBundle:My:index }
+_user:
+  pattern: /user/{$name}
+   defaults: { _controller: AcmeMyBundle:My:user }
