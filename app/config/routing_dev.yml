@@ -17,4 +17,4 @@ _main:
 _acme_demo:
     resource: "@AcmeDemoBundle/Resources/config/routing.yml"
 _acme_my:
-    resource: "@@AcmeMyBundle/Resources/config/myroute.yml"
+    resource: "@AcmeMyCustomBundle/Resources/config/myroute.yml"

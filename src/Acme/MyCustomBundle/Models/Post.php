@@ -6,7 +6,7 @@
  * Time: 21:18
  */
 
-namespace Acme\MyBundle\Models;
+namespace Acme\MyCustomBundle\Models;
 
 
 class Post
